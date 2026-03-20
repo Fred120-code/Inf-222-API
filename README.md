@@ -9,9 +9,9 @@ Cette API (Backend) permet de gérer des articles avec des fonctionnalités CRUD
    npm install
    ```
 
-2. Configurer les variables d'environnement (`.env`) avec l'URI MongoDB :
+2. Configurer les variables d'environnement (`.env`) avec l'URI :
    ```
-   MONGODB_URI=votre_uri_mongodb
+   MONGODB_URI=votre_uri_postgres
    PORT=3000
    ```
 
