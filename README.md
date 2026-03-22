@@ -1,6 +1,6 @@
 # Articles API
 
-Cette API (Backend) permet de gérer des articles avec des fonctionnalités CRUD, de recherche avancée et de filtrage.
+Cette API (Backend) permet de gérer des articles avec des fonctionnalités CRUD
 
 ## Installation et démarrage
 
@@ -11,7 +11,7 @@ Cette API (Backend) permet de gérer des articles avec des fonctionnalités CRUD
 
 2. Configurer les variables d'environnement (`.env`) avec l'URI :
    ```
-   MONGODB_URI=votre_uri_postgres
+   DATABASE_URI=votre_uri_postgres
    PORT=3000
    ```
 
