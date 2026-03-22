@@ -49,7 +49,7 @@ La documentation complète (Swagger) est disponible sur la route :
 
 ### 3. Lire un article spécifique
 - **Endpoint:** `GET /api/articles/:id`
-- **Exemple:** `GET /api/articles/65e9a3b2f...`
+- **Exemple:** `GET /api/articles/2`
 
 ### 4. Modifier un article
 - **Endpoint:** `PUT /api/articles/:id`
